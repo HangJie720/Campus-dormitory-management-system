@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Campus-dormitory-management-system
-=======
 # Campus-dormitory-management-system
 The system uses Web-based B / S structure to achieve, with a graphical, easy to navigate, and platform-independent and distributed features. The use of database management to solve the original manual management of the defects, to avoid the loss of data, easy to master all aspects of data analysis. Mainly to achieve building management, student management, dormitory management, check-in registration, lack of sleep records and other functional modules, to achieve data input, modify, query and other functions. This system can make the work of logistics and student management department become quick and easy, real-time understanding of student accommodation, the administrator can log in after browsing, check the basic information and their details of the dormitory, if there are new personnel to enter Dormitory, the administrator can add the information of the new staff, and can modify the information, it is convenient to inquire about the specific conditions of the students, so that management is more structured, more efficient, scientific, in line with the development of the times, The degree of.
 
 本系统采用基于Web的B/S结构实现，具有图形化、易于导航、与平台无关和分布式的特点。利用数据库管理解决了原先手工管理的缺陷，避免了数据的丢失，便于掌握各方面的数据进行分析。主要实现楼宇管理、学生管理、宿舍管理、入住登记、缺寝记录等功能模块，实现数据的输入、修改、查询等功能。本系统能使后勤和学生管理部门的工作变得方便快捷，能实时了解学生的住宿情况，管理员登录以后可以浏览、查询宿舍内人员的基本信息和他们的详细信息，如果有新的人员进入宿舍，管理员可以添加新人员的信息，并且可以对信息进行修改，很方便的查询出符合特定条件的学生，使管理工作更富有条理，更加高效、科学、符合时代的发展、提高高校的信息化程度。
->>>>>>> Initial commit
